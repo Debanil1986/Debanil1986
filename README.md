@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debanil1986&show_icons=true&locale=en&layout=compact" alt="debanil1986" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debanil1986&" alt="debanil1986" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanil1986&" alt="debanil1986" /></p>
